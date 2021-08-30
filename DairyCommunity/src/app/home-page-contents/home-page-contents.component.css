@@ -1,0 +1,11 @@
+.sect{
+    border: 5px solid red;
+}
+
+.sectcol{
+    border: 1px dotted green;
+}
+
+p{
+    text-align: center;
+}
